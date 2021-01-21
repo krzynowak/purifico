@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://github.com/krzynowak/purifico/tree/main/src/graphics/logo.png">
+  <img width="200" height="200" src="https://github.com/krzynowak/purifico/blob/main/src/graphics/logo.png">
 </p>
 
 
